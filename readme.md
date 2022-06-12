@@ -2,7 +2,7 @@
 
 Code used to run experiments for the paper
 ```
-Differentially-Private Maximal Information Coefficients
+Differentially Private Maximal Information Coefficients
 ```
 by John Lazarsfeld, Aaron Johnson, and Emmanuel Adeniran,
 to be presented at ICML 2022. 
